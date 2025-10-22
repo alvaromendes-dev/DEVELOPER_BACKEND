@@ -2,7 +2,7 @@
 
 Um simples **gerenciador de tarefas (To-Do List)** feito em **Python**, rodando no terminal, ideal para praticar lógica de programação, manipulação de arquivos e uso de JSON para persistência de dados.  
 
-Este é o primeiro projeto do portfólio de **Alvaro Mendes**, ele mostra toda minha evolução estudando Python, desde o começo da minha jornada até onde quero chegar. Tenho um longo caminho a pela frente, mas sinto que estou um passo mais próximo do meu objetivo final.
+Este é o primeiro projeto do portfólio **DEVELOPER_BACKEND**,criado por mim, **Alvaro Mendes**, para mostrar toda minha evolução estudando Python, desde o começo da minha jornada até onde quero chegar. Tenho um longo caminho a pela frente, mas sinto que estou um passo mais próximo do meu objetivo final.
 
 ---
 
@@ -61,22 +61,14 @@ to_do_list/
 
 ---
 
-### 🚀 **Próximos Passos**
-Para evoluir o projeto:
-- Criar uma **interface gráfica** com `tkinter` ou `customtkinter`
-- Adicionar **banco de dados SQLite**
-- Transformar em uma **API Flask** e conectar com um front-end web
-- Criar **testes automatizados** com `pytest`
-
----
-
 ### 💡 **Aprendizados**
 > “O importante não é o tamanho do projeto, mas o quanto você aprende construindo-o.”
 
-Este projeto me ajudou a entender como:
-- Estruturar código limpo em Python  
-- Manipular dados salvos localmente  
-- Criar menus interativos e simples no terminal  
+Este projeto me ajudou a entender como a lógica de programação e conceitos básicos são importantes. Treinar bem a lógica e aplicar ela em algo que realmente faz sentido usar no dia a dia, foi algo incrível e espero que outras pessoa ocnsigam usar isso também.
+
+- Código limpo e estruturado em Python  
+- Manipular dados salvos localmente com JSON 
+- Criação de menus interativos e simples para utilizar no terminal  
 
 ---
 
@@ -103,6 +95,6 @@ Tarefa adicionada com sucesso!
 
 ---
 
-### 🌐 **Conecte-se comigo**
-💼 [LinkedIn](https://www.linkedin.com/in/alvaromendes)  
+### 🌐 **Redes Sociais**
+💼 [LinkedIn]( https://www.linkedin.com/in/alvaro-mendes-056090348)  
 🐙 [GitHub](https://github.com/alvaromendes-dev)
